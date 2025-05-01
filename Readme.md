@@ -38,30 +38,28 @@ timestamp : 18.25
 timestamp :19.48
 angle desired: 28.143708784338652
 [0]stepsize:0.15  angle operating: 22.1839568298
-![Image captured at timestamp 19:48](Pasted%20image%2020250501154610.png)
+![[Pasted image 20250501154610.png]]
 
 timestamp: 20.23
 
 timestamp: 20.35
-![Image captured at timestamp 20:35](Pasted%20image%2020250501154833.png)
-![Image captured at timestamp 20:55](Pasted%20image%2020250501154855.png)
-![Image captured at timestamp 21:30](Pasted%20image%2020250501154930.png)
-![Image captured at timestamp 21:48](Pasted%20image%2020250501154948.png)
-![Image captured at timestamp 22:09](Pasted%20image%2020250501155009.png)
-![Image captured at timestamp 22:43](Pasted%20image%2020250501155043.png)
-
+![[Pasted image 20250501154833.png]]
+![[Pasted image 20250501154855.png]]
+![[Pasted image 20250501154930.png]]
+![[Pasted image 20250501154948.png]]
+![[Pasted image 20250501155009.png]]
+![[Pasted image 20250501155043.png]]
 timestamp:27.00
 timestamp : 27.06
-![Image captured at timestamp 27:06](Pasted%20image%2020250501155327.png)
-![Image captured at timestamp 27:42](Pasted%20image%2020250501155342.png)
-![Image captured at timestamp 28:31](Pasted%20image%2020250501155431.png)
-
+![[Pasted image 20250501155327.png]]
+![[Pasted image 20250501155342.png]]
+![[Pasted image 20250501155431.png]]
 timestamp: 30.40
 
 timestamp: 30.49
-![Image captured at timestamp 30:49](Pasted%20image%2020250501155626.png)
-![Image captured at timestamp 31:41](Pasted%20image%2020250501155641.png)
-![Image captured at timestamp 31:56](Pasted%20image%2020250501155656.png)
+![[Pasted image 20250501155626.png]]
+![[Pasted image 20250501155641.png]]
+![[Pasted image 20250501155656.png]]
 
 
 timestamp:  32.45
@@ -69,30 +67,30 @@ timestamp:  32.45
 
 timestamp:  32.50
 
-![Image captured at timestamp 32:50](Pasted%20image%2020250501155845.png)
-![Image captured at timestamp 32:57](Pasted%20image%2020250501155857.png)
-![Image captured at timestamp 33:18](Pasted%20image%2020250501155918.png)
-![Image captured at timestamp 33:34](Pasted%20image%2020250501155934.png)
-![Image captured at timestamp 34:20](Pasted%20image%2020250501160020.png)
-![Image captured at timestamp 34:35](Pasted%20image%2020250501160035.png)
-![Image captured at timestamp 35:33](Pasted%20image%2020250501160133.png)
+![](Pasted%20image%2020250501155845.png)
+![](Pasted%20image%2020250501155857.png)
+![](Pasted%20image%2020250501155918.png)
+![](Pasted%20image%2020250501155934.png)
+![](Pasted%20image%2020250501160020.png)
+![](Pasted%20image%2020250501160035.png)
+![](Pasted%20image%2020250501160133.png)
 
 timestamp: 41.14
 
 timestamp: 41.20
 
-![Image captured at timestamp 41:20](Pasted%20image%2020250501160257.png)
-![Image captured at timestamp 41:30](Pasted%20image%2020250501160317.png)
-![Image captured at timestamp 41:45](Pasted%20image%2020250501160334.png)
+![](Pasted%20image%2020250501160257.png)
+![](Pasted%20image%2020250501160317.png)
+![](Pasted%20image%2020250501160334.png)
 
 timestamp : 43.05
 
 timestamp : 43.12
 
-![Image captured at timestamp 43:12](Pasted%20image%2020250501160530.png)
-![Image captured at timestamp 43:30](Pasted%20image%2020250501160542.png)
+![](Pasted%20image%2020250501160530.png)
+![](Pasted%20image%2020250501160542.png)
 
-![Image captured at timestamp 44:00](Pasted%20image%2020250501160621.png)
+![](Pasted%20image%2020250501160621.png)
 
 timestamp: 45.13
 
