@@ -1,10 +1,16 @@
 timestamp: 1:17
 desired angle to be rotated: 48.585654951356055
+
 [0]stepsize:0.15  angle operating: 18.207746505737305
+
 [1]stepsize:0.12  angle operating: 27.910411834716797
+
 [2]stepsize:0.12  angle operating: 53.47010040283203
+
 [3]stepsize:0.11  angle operating: 56.951576232910156
+
 [4]stepsize:0.12  angle operating: 58.642677307128906
+
 [5]stepsize:0.13  angle operating: 59.3681640625
 
 
@@ -16,21 +22,33 @@ timestamp:9.24
 desired angled to be rotated :32.855548207991106
 
 [0]stepsize:0.15  angle operating: 18.066314697265625
+
 [1]stepsize:0.12  angle operating: 35.31795120239258
+
 [2]stepsize:0.12  angle operating: 50.15837097167969
+
 [3]stepsize:0.11  angle operating: 61.802452087402344
+
 [4]stepsize:0.12  angle operating: 69.09600830078125
+
 [5]stepsize:0.13  angle operating: 73.0073471069336
+
 
 timestamp : 16.12
 
 timestamp: 16.32
 desired angle: 22.5182617206287
+
 [0]stepsize:0.15  angle operating: 16.426097869873047
+
 [1]stepsize:0.12  angle operating: 29.09128761291504 
+
 [2]stepsize:0.13  angle operating: 59.3681640625
+
 [3]stepsize:0.11  angle operating: 45.63706207275906
+
 [4]stepsize:0.12  angle operating: 51.2794075012207
+
 [5]stepsize:0.13  angle operating: 55.15861837768555
 
 timestamp : 18.25
